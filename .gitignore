@@ -1,0 +1,12 @@
+# 빌드 결과물
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 임시 파일
+.vs/
+*.user
+*.suo
+
+# 기타
+*.log
+*.tmp
